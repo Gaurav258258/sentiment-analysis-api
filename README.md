@@ -19,8 +19,6 @@ Python dependencies used:-
 Check it out on
 https://sentiment-analysis-web-app.herokuapp.com
 
-It might take few seconds to load please give it a try
-
 ## Files and folder classification
 
 <ul>
