@@ -2,7 +2,7 @@
 
 # Sentiment Analysis
 
-This is a sentiment analysis web applications, we have used nltk tweet sample for training model and Naive bais classier and deployed using flask api on heroku server.
+This is a sentiment analysis web applications, we have used nature language tool kit tweet sample for training model and Naive bais classier and deployed using flask api on heroku server.
 For training and testing our sentiment analysis model we used Google colaboratory which is an open source platform for machine learning or data science projects.
 It helps us training the model fast by using virtual GPU.
 For HTML and CSS we use Microsoft VS Code which a great code editor with syntax highlighting, emmit abbreviations and much more.
